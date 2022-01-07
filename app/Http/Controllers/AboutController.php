@@ -11,7 +11,8 @@ class AboutController extends Controller
     [   "title" => "About",
         "name" => "Ridhal Fajri Yz",
         "email" => "ridhalyz@apps.ipb.ac.id",
-        "picture" => "foto.jpg"
+        "picture" => "foto.jpg",
+        "occupation" => "mahasiswa"
     ]);
 }
 }
